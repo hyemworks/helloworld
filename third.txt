@@ -1,3 +1,2 @@
 third
-
-I am the developer B.
+developer B
